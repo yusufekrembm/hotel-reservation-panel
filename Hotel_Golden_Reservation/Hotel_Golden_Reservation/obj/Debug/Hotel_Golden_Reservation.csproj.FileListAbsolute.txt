@@ -1,0 +1,36 @@
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\Hotel_Golden_Reservation.exe.config
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\Hotel_Golden_Reservation.exe
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\Hotel_Golden_Reservation.pdb
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Form1.resources
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Form2.resources
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.exe
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.pdb
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.CopyComplete
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Customers.resources
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Employees.resources
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Rooms.resources
+C:\Users\yusuf\source\repos\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Escorts.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Form1.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Form2.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Properties.Resources.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.exe
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.pdb
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\Hotel_Golden_Reservation.exe.config
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\Hotel_Golden_Reservation.exe
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\Hotel_Golden_Reservation.pdb
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.csproj.CopyComplete
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Customers.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Employees.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Escorts.resources
+C:\Users\yusuf\Desktop\SchoolFiles\Database Management Systems\Project\ALL PROJECT HOTEL GOLDEN RESERVATİON\Hotel_Golden_Reservation\Hotel_Golden_Reservation\obj\Debug\Hotel_Golden_Reservation.Rooms.resources
